@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ramarao Kondeti
+- 👀 I’m interested in exploring new technologies
+- 🌱 I’m currently learning Openshift Container Platfrom 
+- 💞️ I’m looking to collaborate with DevOps Enginers
+- 📫 How to reach me ramarao.devops@gmail.com
